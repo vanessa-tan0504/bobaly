@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1029002874661",
+    "firebase_url": "https://bobaly.firebaseio.com",
+    "project_id": "bobaly",
+    "storage_bucket": "bobaly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029002874661:android:9abacf426a78c43c8954cc",
+        "android_client_info": {
+          "package_name": "com.example.bobaly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029002874661-kle7oodd3ootre8tq6ip4drnaqdaeg00.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bobaly",
+            "certificate_hash": "8e35791c4077934e8e0f01a06f978f4fbcda58bd"
+          }
+        },
+        {
+          "client_id": "1029002874661-ja80rln2u2uh4j6sb4pdrfs1qfe33b98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCatcYxQpjdkNnJXnL6dtH7UX5FY6iHGPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029002874661-ja80rln2u2uh4j6sb4pdrfs1qfe33b98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

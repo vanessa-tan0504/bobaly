@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bobaly</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="title_menu">Menu</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_profile">Profile</string>
+    <string name="sweet0">Sugar Level:0%</string>
+    <string name="sweet1">Sugar Level:25%</string>
+    <string name="sweet2">Sugar Level:50%</string>
+    <string name="sweet3">Sugar Level:75%</string>
+    <string name="sweet4">Sugar Level:100%</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
