@@ -54,6 +54,7 @@ public class LogInActivity extends AppCompatActivity {
             public void onClick(View v) {
                 startActivity(new Intent(LogInActivity.this,SignUpActivity.class));
                 finish();
+                overridePendingTransition(R.anim.push_left_in, R.anim.push_left_out);
             }
         });
         //end of go to sign up interface
